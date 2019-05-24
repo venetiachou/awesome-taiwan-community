@@ -6,9 +6,33 @@
 交流互動讓自己有更進一步的成長，快來參與社群吧 🚀
 
 本 Repo 精選台灣目前活躍的線上與線下社群，主題包含技術、設計、產品、創業以及科技創新。
-如果有其他很棒的社群活動，超級歡迎你開一個 [issue](https://github.com/StarRocket/awesome-taiwan-community/issues) 或者是直接提交 [pull request](https://github.com/StarRocket/awesome-taiwan-community/pulls) 一同維護更新。
+
+如果有其他很棒的社群活動，超級歡迎你開一個 [issue](https://github.com/StarRocket/awesome-taiwan-community/issues) 或者是直接提交 [pull request](https://github.com/StarRocket/awesome-taiwan-community/pulls) 一同維護更新！
 
 
+## 線上開源社群
+
+### Elixir 
+
+* Elixir Taiwan
+    * [Facebook 社團](https://www.facebook.com/groups/elixir.tw/about/)
+    * [Meetup 活動聚會]（https://www.meetup.com/elixirtw-taipei/）
+
+### PHP
+
+* Laravel 台灣
+    *[官網](https://laravel.tw/)
+    *[Facebook 社團](https://www.facebook.com/groups/laravel.tw/)
+    *[GitHub](https://github.com/laravel-taiwan)
+
+* Lara Girls
+    *[Facebook 社團](https://www.facebook.com/groups/2218011745094883/about)
+
+* PHP 台灣
+    *[Facebook 社團](https://www.facebook.com/groups/199493136812961/)
+
+* PHP 也有 Day
+    *[Facebook 社團](https://www.facebook.com/groups/849639948396465/)
 
 
 ## 開源社群
