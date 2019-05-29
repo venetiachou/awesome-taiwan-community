@@ -60,8 +60,8 @@
 * Ruby on Rails 讀書會
     * [Facebook 社團](https://www.facebook.com/groups/208890269174940/about/)
 
-* Railsgirls Taiwan
-    *[Facebook 粉絲專頁](https://www.facebook.com/railsgirlstw/)
+* Rails girls Taiwan
+    * [Facebook 粉絲專頁](https://www.facebook.com/railsgirlstw/)
 
 
 ### 📍R 
@@ -71,7 +71,7 @@
     * [Meetup 活動聚會](https://www.meetup.com/Taiwan-R/)
         
 * R-Ladies Taipei
-    * [Facebook 社團](https://www.facebook.com/groups/RLadiesTaipei/
+    * [Facebook 社團](https://www.facebook.com/groups/RLadiesTaipei/)
 
 
 ### 📍Python
@@ -81,7 +81,7 @@
     * [Meetup 活動聚會](https://www.meetup.com/Taipei-py/)
 
 * Pyladies Taiwan
-    *[Facebook 粉絲專頁](https://www.facebook.com/pyladies.tw/)
+    * [Facebook 粉絲專頁](https://www.facebook.com/pyladies.tw/)
 
 ### 📍Android
 
@@ -131,7 +131,7 @@
     * [Gacebook 粉絲專頁](https://www.facebook.com/jsgirlstw/)
     * [Facebook 社團](https://www.facebook.com/groups/JsGirlsTaiwan/about/)
 
-### 📍人工智慧
+### 📍AI
 
 * 台灣「人工智慧」社團
     * [Facebook 社團](https://www.facebook.com/groups/Taiwan.AI.Group/)
@@ -217,12 +217,12 @@
 ### 📍IOT
 
 * Women in IoT Community
-    *[Meetup 活動聚會](https://www.meetup.com/Women-in-IoT-Community/)
+    * [Meetup 活動聚會](https://www.meetup.com/Women-in-IoT-Community/)
 
 ### 綜合類型
 
 * 技術週刊
-    *[電子報](https://weekly.techbridge.cc/)
+    * [電子報](https://weekly.techbridge.cc/)
 
 * Girls In Tech
     * [Facebook 社團](https://www.facebook.com/groups/420817431404071/)
@@ -310,6 +310,7 @@
 
 * ProductTank Taipei
     * [Facebook 粉絲專頁](https://www.facebook.com/pg/ProductTankTaipei/)
+
 
 
 ## 學生社群
