@@ -10,11 +10,7 @@
 如果有其他很棒的社群活動，超級歡迎你開一個 [issue](https://github.com/StarRocket/awesome-taiwan-community/issues) 或者是直接提交 [pull request](https://github.com/StarRocket/awesome-taiwan-community/pulls) 一同維護更新！
 
 
-## 線上開源社群
-
-
-
-
+## 線上 Coding 相關社群 
 
 
 ### 📍Elixir 
@@ -22,6 +18,7 @@
 * Elixir Taiwan
     * [Facebook 社團](https://www.facebook.com/groups/elixir.tw/about/)
     * [Meetup 活動聚會](https://www.meetup.com/elixirtw-taipei/)
+
 
 ### 📍PHP
 
@@ -40,223 +37,295 @@
     * [Facebook 社團](https://www.facebook.com/groups/849639948396465/)
 
 
-
-### Ruby
+### 📍Ruby
 
 * Ruby Taiwan
-    * 官網： https://2018.rubyconf.tw/
-    * Twitter： https://twitter.com/rubytaiwan
-* Rails Taiwan
-    * Facebook 專頁： https://www.facebook.com/railstaiwan/
-    * Meetup： https://www.meetup.com/rails-taiwan/
-    * Twitter： https://twitter.com/RailsTuesday
-* 五倍紅寶石
-    * 官網： https://5xruby.tw/
-    * Facebook 專頁： https://www.facebook.com/5xruby
-    * GitHub： https://github.com/5xruby
-    * Twitter： https://twitter.com/5xruby
-* Ruby on Rails 新手村
-    * Facebook group: https://www.facebook.com/groups/RailsRookie/about/
-* Ruby on Rails 讀書會
-    * Facebook group: https://www.facebook.com/groups/208890269174940/about/
+    * [官網](https://ruby.tw/)
+    * [Twitter]( https://twitter.com/rubytaiwan)
+    * [Facebook 社團](https://www.facebook.com/groups/142197385837507/about/)
 
-### R 
+* Rails Taiwan
+    * [Facebook 粉絲專頁](https://www.facebook.com/railstaiwan/)
+    * [Meetup 活動聚會](https://www.meetup.com/rails-taiwan/)
+
+* 五倍紅寶石
+    * [官網](https://5xruby.tw/)
+    * [Facebook 粉絲專頁](https://www.facebook.com/5xruby)
+    * [GitHub](https://github.com/5xruby)
+    * [Twitter](https://twitter.com/5xruby)
+
+* Ruby on Rails 新手村
+    * [Facebook 社團](https://www.facebook.com/groups/RailsRookie/about/)
+
+* Ruby on Rails 讀書會
+    * [Facebook 社團](https://www.facebook.com/groups/208890269174940/about/)
+
+* Railsgirls Taiwan
+    *[Facebook 粉絲專頁](https://www.facebook.com/railsgirlstw/)
+
+
+### 📍R 
 
 * Taiwan R User Group
-    * Meetup： https://www.meetup.com/Taiwan-R/
-    * Facebook 專頁： http://www.facebook.com/Tw.R.User
+    * [Facebook 社團](http://www.facebook.com/Tw.R.User)
+    * [Meetup 活動聚會](https://www.meetup.com/Taiwan-R/)
         
+* R-Ladies Taipei
+    * [Facebook 社團](https://www.facebook.com/groups/RLadiesTaipei/
 
-### Python
+
+### 📍Python
 
 * Python Taiwan
-    * Facebook 社團： https://www.facebook.com/groups/pythontw
-    * Meetup： https://www.meetup.com/Taipei-py/
+    * [Facebook 社團](https://www.facebook.com/groups/pythontw)
+    * [Meetup 活動聚會](https://www.meetup.com/Taipei-py/)
 
-### Android
+* Pyladies Taiwan
+    *[Facebook 粉絲專頁](https://www.facebook.com/pyladies.tw/)
 
-* Android Developer開發讀書會
-    * Facebook 社團： https://www.facebook.com/groups/523386591081376/
+### 📍Android
+
+* Android Developer 開發讀書會
+    * [Facebook 社團](https://www.facebook.com/groups/523386591081376/)
 
 * Android 台灣開發者社群
-    * Facebook 社團： [https://www.facebook.com/groups/270034869726161/](https://www.facebook.com/groups/270034869726161/?ref=br_rs)
-* Android Taipei 開發者社群
-    * Facebook 社團： https://www.facebook.com/groups/AndroidTaipei/
+    * [Facebook 社團](https://www.facebook.com/groups/270034869726161/)
 
-### Mobile App 開發
+* Android Taipei 開發者社群
+    * [Facebook 社團](https://www.facebook.com/groups/AndroidTaipei/)
+
+
+### 📍Mobile App 開發
 
 * AppDC 台灣 App 開發者社群
-    * Facebook 社團： https://www.facebook.com/groups/appdc/
-* Cocoaheads Taipei
-    * Facebook 社團： [https://www.facebook.com/groups/cocoaheads.taipei/](https://www.facebook.com/groups/cocoaheads.taipei/?notif_id=1530243782623050&notif_t=group_r2j_approved&ref=notif)
-* Swift 線上讀書會
-    * Facebook 社團： https://www.facebook.com/groups/238948643131478/
-* Swift Developers Taiwan
-    * Facebook 社團： https://www.facebook.com/groups/swift.study/
+    * [Facebook 社團](https://www.facebook.com/groups/appdc/)
 
-### Java
+* Cocoaheads Taipei
+    * [Facebook 社團](https://www.facebook.com/groups/cocoaheads.taipei/)
+
+* Swift 線上讀書會
+    * [Facebook 社團](https://www.facebook.com/groups/238948643131478/)
+
+* Swift Developers Taiwan
+    * [Facebook 社團](https://www.facebook.com/groups/swift.study/)
+
+
+### 📍Java
 
 * TWJUG
-    * Facebook 社團： https://www.facebook.com/groups/twjug/
-    * GitHub： https://github.com/twjug/jobs 
+    * [Facebook 社團](https://www.facebook.com/groups/twjug/)
+    * [GitHub](https://github.com/twjug/jobs)
 
-### 前端開發相關社群
+
+### 📍前端開發相關社群
 
 * 台北前端社群
-    * Facebook 社團： https://www.facebook.com/groups/f2e.taipei/
-* Front-End Developers Taiwan
-    * Facebook 社團： https://www.facebook.com/groups/521085554595481/
-    * 官網： http://www.f2e.tw/
-    * KKTIX： https://f2e.kktix.cc/
+    * [Facebook 社團](https://www.facebook.com/groups/f2e.taipei/)
 
-### 人工智慧
+* Front-End Developers Taiwan
+    * [官網](http://www.f2e.tw/)
+    * [Facebook 社團](https://www.facebook.com/groups/521085554595481/)
+    * [KKTIX 活動聚會](https://f2e.kktix.cc/)
+
+* JS Girls Taiwan
+    * [Gacebook 粉絲專頁](https://www.facebook.com/jsgirlstw/)
+    * [Facebook 社團](https://www.facebook.com/groups/JsGirlsTaiwan/about/)
+
+### 📍人工智慧
 
 * 台灣「人工智慧」社團
-    * Facebook 社團： https://www.facebook.com/groups/Taiwan.AI.Group/
+    * [Facebook 社團](https://www.facebook.com/groups/Taiwan.AI.Group/)
 
-### Hacker
+
+### 📍Hacker
 
 * Hacks/Hackers Taipei
-    * Facebook 社團： https://www.facebook.com/groups/hackshackerstaipei/
-    * 官網： http://www.hackshackers.taipei/
-    * GitHub：[https://github.com/hackshackerstaipei](http://www.hackshackers.taipei/)
-* Hacking Thursday
-    * Facebook 社團： https://www.facebook.com/groups/hackingday/
-    * 官網： http://www.hackingthursday.org/
-    * Meetup： https://www.meetup.com/hackingthursday/
-* Hackernest Tech Social Taiwan
-    * Facebook 專頁： https://www.facebook.com/pg/Hackernest-Tech-Social-Taiwan-572455929782279/
+    * [官網](http://www.hackshackers.taipei/)
+    * [Facebook 社團](https://www.facebook.com/groups/hackshackerstaipei/)
+    * [GitHub](https://github.com/hackshackerstaipei)
 
-### Facebook
+* Hacking Thursday
+    * [官網](http://www.hackingthursday.org/)
+    * [Facebook 社團](https://www.facebook.com/groups/hackingday/)
+    * [Meetup 活動聚會](https://www.meetup.com/hackingthursday/)
+
+* Hackernest Tech Social Taiwan
+    * [Facebook 粉絲專頁](https://www.facebook.com/pg/Hackernest-Tech-Social-Taiwan-572455929782279/)
+
+
+### 📍Facebook Developer
 
 * Facebook Developer Circle: Taipei
-    * Facebook 社團： https://www.facebook.com/groups/DevCTaipei
-    * 全球官網：[https://developers.facebook.com/](https://developers.facebook.com/products/)
+    * [全球官網](https://developers.facebook.com/products/)
+    * [Facebook 社團](https://www.facebook.com/groups/DevCTaipei)
 
-### Google
+
+### 📍Google
 
 * GDG Taipei
-    * Facebook 專頁： https://www.facebook.com/GDG.Taipei/
-    * Facebook 社團： https://www.facebook.com/groups/1614248835348810/
-    * Meetup： https://www.meetup.com/GDGTaipei/
+    * [Facebook 粉絲專頁](https://www.facebook.com/GDG.Taipei/)
+    * [Facebook 社團](https://www.facebook.com/groups/1614248835348810/)
+    * [Meetup](https://www.meetup.com/GDGTaipei/)
 
-### Functional Programming
+
+### 📍Functional Programming
 
 * Functional Thursday
-    * Facebook 專頁： https://www.facebook.com/FunctionalThursday
-    * Facebook 社團： https://www.facebook.com/groups/functioanl.thursday/
-    * Meetup： https://www.meetup.com/Functional-Thursday/
+    * [Facebook 粉絲專頁](https://www.facebook.com/FunctionalThursday)
+    * [Facebook 社團](https://www.facebook.com/groups/functioanl.thursday/)
+    * [Meetup 活動聚會](https://www.meetup.com/Functional-Thursday/)
 
-### 資料科學
+
+### 📍資料科學
 
 * Taiwan Hadoop User Group
-    * Facebook 社團： https://www.facebook.com/groups/hadoop.tw/
-    * 官網： http://2017.datacon.tw/
+    * [官網](http://2018.datacon.tw/)
+    * [Facebook 社團](https://www.facebook.com/groups/hadoop.tw/)
 
-### 敏捷開發
+
+### 📍敏捷開發
 
 * 台灣敏捷社群
-    * Facebook 專頁： https://www.facebook.com/AgileCommunity.tw/
-    * KKTIX： https://agilecommtw.kktix.cc/
+    * [Facebook 粉絲專頁](https://www.facebook.com/AgileCommunity.tw/)
+    * [KKTIX 活動聚會](https://agilecommtw.kktix.cc/)
 
-### Mozilla 
+
+### 📍Mozilla 
 
 * Mozilla 台灣社群
-    * Facebook 專頁： https://www.facebook.com/MozTW/
-    * 官網： http://moztw.org/
+    * [官網](http://moztw.org/)
+    * [Facebook 粉絲專頁](https://www.facebook.com/MozTW/)
 
-### SLACK
+
+### 📍SLACK
 
 * SlackDevs: Taipei
-    * Meetup： https://www.meetup.com/SlackDevs-Taipei/
+    * [Meetup 活動聚會](https://www.meetup.com/SlackDevs-Taipei/)
 
-### Open source
+
+### 📍Open source
 
 * Taipei Open Source Software User Group
-    * Facebook 社團： https://www.facebook.com/groups/tossug/
+    * [Facebook 社團](https://www.facebook.com/groups/tossug/)
 
-### **OCF 開放文化基金會**
+* OCF 開放文化基金會
+    * [官網](https://ocf.tw/)
 
-* 官網： https://ocf.tw/
+* 開源社
+    * [官網](http://www.kaiyuanshe.cn/)
 
-**開源社**
+### 📍IOT
 
-* 官網： http://www.kaiyuanshe.cn/
+* Women in IoT Community
+    *[Meetup 活動聚會](https://www.meetup.com/Women-in-IoT-Community/)
 
-### 
+### 綜合類型
 
-## 設計社群
+* 技術週刊
+    *[電子報](https://weekly.techbridge.cc/)
+
+* Girls In Tech
+    * [Facebook 社團](https://www.facebook.com/groups/420817431404071/)
+
+
+##  設計相關社群
+
+### 📍Sketch
 
 * Sketch & Design - Taipei
-    * Facebook 專頁： https://www.facebook.com/SketchTaipei/
-    * Meetup： https://www.meetup.com/Sketch-Taipei-Meetup/
-* TalkUX
-    * Facebook 專頁： https://www.facebook.com/talkux1/
-    * 官網： http://www.talk-ux.com/
-* UserXper 悠識數位
-    * Facebook 專頁： https://www.facebook.com/userxper.tw/
-    * 官網： https://hpx.tw/
-* Design Resources Lab
-    * Facebook 專頁： https://www.facebook.com/TheDRLab/
-* UiGathering 台灣使用者經驗設計協會
-    * Facebook 專頁： https://www.facebook.com/UiGathering/
-* AAPD - As A Product Designer
-    * Facebook 專頁： https://www.facebook.com/AAPD.tw/
-* Taiwan UI/UX Designers
-    * Facebook 社團： https://www.facebook.com/groups/TaiwanUIUXDesigners/
-* UI/UX Taiwan
-    * Facebook 社團： https://www.facebook.com/groups/iOSUIUX/
-* UX 四神湯
-    * Facebook 專頁： https://www.facebook.com/UXeastmeetswest
-    * Medium： https://medium.com/uxeastmeetswest
-* 設計大舌頭
-    * Facebook 專頁： https://www.facebook.com/designtongue/
-    * 部落格： https://designtongue.me/
-* vide 創誌
-    * 官網： https://vide.tw/
-    * Facebook 專頁： https://www.facebook.com/videmedia
-* 台灣互動設計協會
-    * 官網： http://www.ixda.org.tw/
-* DITL 設計資訊與思考研究室 Design Information & Thinking Lab by 唐玄輝老師
-    * Facebook 專頁： https://www.facebook.com/proftang/
-* UX /UI Art 線上讀書會
-    * Facebook 社團： https://www.facebook.com/groups/670166459806094/
+    * [Facebook 粉絲專頁](https://www.facebook.com/SketchTaipei/)
+    * [Meetup 活動聚會](https://www.meetup.com/Sketch-Taipei-Meetup/)
 
-###   KOL
+
+### 📍UI/UX 相關
+
+* TalkUX
+    * [官網](http://www.talk-ux.com/)
+    * [Facebook 粉絲專頁](https://www.facebook.com/talkux1/)
+
+* UserXper 悠識數位
+    * [官網](https://hpx.tw/)
+    * [Facebook 專頁](https://www.facebook.com/userxper.tw/)
+
+* Design Resources Lab
+    * [Facebook 粉絲專頁](https://www.facebook.com/TheDRLab/)
+
+* UiGathering 台灣使用者經驗設計協會
+    * [Facebook 粉絲專頁](https://www.facebook.com/UiGathering/)
+
+* AAPD - As A Product Designer
+    * [Facebook 專頁](https://www.facebook.com/AAPD.tw/)
+    * [Medium](https://medium.com/as-a-product-designer)
+
+* Taiwan UI/UX Designers
+    * [Facebook 社團](https://www.facebook.com/groups/TaiwanUIUXDesigners/)
+
+* UI/UX Taiwan
+    * [Facebook 社團](https://www.facebook.com/groups/iOSUIUX/)
+
+* UX 四神湯
+    * [Facebook 粉絲專頁](https://www.facebook.com/UXeastmeetswest)
+    * [Medium](https://medium.com/uxeastmeetswest)
+
+* 設計大舌頭    
+    * [官網](https://designtongue.me/)
+    * [Facebook 粉絲專頁](https://www.facebook.com/designtongue/)
+
+* vide 創誌
+    * [官網](https://vide.tw/)
+    * [Facebook 粉絲專頁](https://www.facebook.com/videmedia)
+
+* 台灣互動設計協會
+    * [官網](http://www.ixda.org.tw/)
+
+* DITL 設計資訊與思考研究室 Design Information & Thinking Lab
+    * [Facebook 粉絲專頁](https://www.facebook.com/proftang/)
+
+* UX /UI Art 線上讀書會
+    * [Facebook 社團](https://www.facebook.com/groups/670166459806094/)
+
+* LTUX.Taipei
+    * [Facebook 粉絲專頁](https://www.facebook.com/ltuxtaipei/)
+
+
+### 📍字型設計
+
+* 字戀
+    *[Facebook 社團](https://www.facebook.com/groups/enjoyfonts/)
+
+
+### 📍KOL
 
 * 設計私房誌
     * [Medium](https://medium.com/%E8%83%8C%E5%9C%B0%E8%A3%A1%E7%9A%84%E8%BA%AB%E5%88%86%E5%85%B6%E5%AF%A6%E6%98%AF%E4%B8%80%E4%BD%8D%E5%B9%B3%E9%9D%A2%E8%A8%AD%E8%A8%88%E5%B8%AB) 
+
 * MOOON.C
-    * 部落格： https://mooondesign.blog/
+    * [部落格](https://mooondesign.blog/)
+
 * Samuel
-    * Medium： https://medium.com/@citysite1025
-    * profile： http://www.samuel-kao.com/?source=user_profile----------------------------
+    * [Medium](https://medium.com/@citysite1025)
+
 
 ## 產品社群
 
 * ProductTank Taipei
-    * Facebook 專頁： https://www.facebook.com/pg/ProductTankTaipei/
+    * [Facebook 粉絲專頁](https://www.facebook.com/pg/ProductTankTaipei/)
 
-## 女性科技社群
-
-* Girls In Tech： https://www.facebook.com/groups/420817431404071/
-* LTUX.Taipei： https://www.facebook.com/ltuxtaipei/
-* R-Ladies Taipei：[https://www.facebook.com/groups/RLadiesTaipei/](https://www.facebook.com/groups/RLadiesTaipei/about/)
-* Pyladies Taiwan： https://www.facebook.com/pyladies.tw/
-* Railsgirls Taiwan: https://www.facebook.com/railsgirlstw/（ 臉書更新到 2017 年）
-* JS Girls Taiwan: https://www.facebook.com/jsgirlstw/ 
-    Facebook group: https://www.facebook.com/groups/JsGirlsTaiwan/about/
-* Women in IoT Community： https://www.meetup.com/Women-in-IoT-Community/
-* 
 
 ## 學生社群
 
-* 大學新創平台 Maker In College： https://www.facebook.com/makerincollege/
-* 政大創聯會 NCCU EA： https://www.facebook.com/NCCUEA/
-* 台大創創中心： https://www.facebook.com/ntutec.fanpage/
+* 大學新創平台 Maker In College
+    * [Facebook 粉絲專頁](https://www.facebook.com/makerincollege/)
+
+* 政大創聯會 NCCU EA
+    * [Facebook 粉絲專頁](https://www.facebook.com/NCCUEA/)
+
+* 台大創創中心
+    * [Facebook 粉絲專頁](https://www.facebook.com/ntutec.fanpage/)
+
 * Rookiefund
-    * Facebook 專頁： https://www.facebook.com/RookieFund/
-    * 官網： https://www.rookie.fund/
+    * [官網](https://www.rookie.fund/)
+    * [Facebook 粉絲專頁](https://www.facebook.com/RookieFund/)
 
 * * *
 
