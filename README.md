@@ -12,27 +12,32 @@
 
 ## 線上開源社群
 
+
+
+
+
+
 ### Elixir 
 
 * Elixir Taiwan
     * [Facebook 社團](https://www.facebook.com/groups/elixir.tw/about/)
-    * [Meetup 活動聚會]（https://www.meetup.com/elixirtw-taipei/）
+    * [Meetup 活動聚會](https://www.meetup.com/elixirtw-taipei/)
 
 ### PHP
 
 * Laravel 台灣
-    *[官網](https://laravel.tw/)
-    *[Facebook 社團](https://www.facebook.com/groups/laravel.tw/)
-    *[GitHub](https://github.com/laravel-taiwan)
+    * [官網](https://laravel.tw/)
+    * [Facebook 社團](https://www.facebook.com/groups/laravel.tw/)
+    * [GitHub](https://github.com/laravel-taiwan)
 
 * Lara Girls
-    *[Facebook 社團](https://www.facebook.com/groups/2218011745094883/about)
+    * [Facebook 社團](https://www.facebook.com/groups/2218011745094883/about)
 
 * PHP 台灣
-    *[Facebook 社團](https://www.facebook.com/groups/199493136812961/)
+    * [Facebook 社團](https://www.facebook.com/groups/199493136812961/)
 
 * PHP 也有 Day
-    *[Facebook 社團](https://www.facebook.com/groups/849639948396465/)
+    * [Facebook 社團](https://www.facebook.com/groups/849639948396465/)
 
 
 
