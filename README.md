@@ -35,27 +35,6 @@
     *[Facebook 社團](https://www.facebook.com/groups/849639948396465/)
 
 
-## 開源社群
-
-### Elixir
-
-* Elixir Taiwan
-    * Facebook 社團：[https://www.facebook.com/groups/elixir.tw/](https://www.facebook.com/groups/elixir.tw/about/)
-    * Meetup： https://www.meetup.com/elixirtw-taipei/
-
-### PHP
-
-* Laravel 台灣
-    * Facebook 社團： https://www.facebook.com/groups/laravel.tw/
-    * Laravel 道場： [https://www.laravel-dojo.com/](https://www.google.com/url?q=https%3A%2F%2Fwww.laravel-dojo.com%2F&sa=D&ust=1531029001017000&usg=AFQjCNExOjmvN_2Iei6Yz63QNVRoZRk3WQ)
-    * 官網： https://laravel.tw/
-    * GitHub： https://github.com/laravel-taiwan
-    * 年度大型活動：[LaravelConf Taiwan 2018](https://laravelconf.tw/zh-TW)
-    * 大型活動紀錄：[部落格](https://medium.com/laraveldojo/tagged/laravelconf-taiwan)
-* PHP 台灣
-    * Facebook 社團： https://www.facebook.com/groups/199493136812961/
-* PHP 也有 Day
-    * Facebook 社團： https://www.facebook.com/groups/849639948396465/
 
 ### Ruby
 
